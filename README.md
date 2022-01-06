@@ -11,7 +11,5 @@ README
   	$ sudo docker build -t testsql .
 
    ii. For Creating a Container using Image:
-  
-      	$ docker run -d -it -p 3306:3306 --name=testsql testsql 
-
-
+       
+       $ docker run -d -it -p 3306:3306 --name=testsql testsql 
