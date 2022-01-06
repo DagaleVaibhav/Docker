@@ -6,7 +6,8 @@ README
 	
   2. Use following commands:
 
-    i. For building image using Dockerfile:
+   i. For building image using Dockerfile:
+    
   	$ sudo docker build -t testsql .
 
    ii. For Creating a Container using Image:
